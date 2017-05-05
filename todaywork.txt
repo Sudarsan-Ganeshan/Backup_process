@@ -1,0 +1,7 @@
+what is today task ?
+create a object animal {
+  elephant
+  tiger
+  cat  
+  }
+  
